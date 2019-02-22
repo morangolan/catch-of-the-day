@@ -9,3 +9,4 @@ run $npm install
 *Make sure all dependencies on package.json are installed.
 run $npm start to run the app locally.
 ```
+run the app on http://localhost:3000/
